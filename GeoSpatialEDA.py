@@ -1,7 +1,7 @@
 # pip install the additional dependencies
-!pip install pyarrow
-!pip install fastparquet
-!pip install geopandas
+#!pip install pyarrow
+#!pip install fastparquet
+#!pip install geopandas
 
 # import libraries
 import pandas as pd
